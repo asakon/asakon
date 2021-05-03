@@ -11,9 +11,9 @@
 - Python
 
 
-## ソリューションログっぽいやつ
+## Wiki
 
-Wikiにログを書いていこうと思います。
+Wikiに学習の記録を書いていこうと思います。
 
 https://github.com/asakon/memo/wiki
 
