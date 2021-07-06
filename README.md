@@ -8,6 +8,7 @@
 - SQL
 
 ## learning
+- Vue.js
 - Python
 - JSのプロトタイプとかクロージャとかわかってないから勉強中
 
