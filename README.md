@@ -1,11 +1,27 @@
 ## スキルリスト
 
-- HTML
-- CSS, SCSS(Using Prepros)
-- JavaScript, jQuery
-- Visual Basic.NET
-- Git
-- SQL
+### ウェブサイト制作
+
+デザイナーが作成したデザインカンプ（Illurstator, Photoshop, Adobe XD, Figma）から、ウェブページを作成できる
+HTML5, CSS3, jQuery, JavaScript
+
+### システム開発、プログラミング
+
+他ベンダーが開発したモジュールから現在の機能を調査し、担当者から要件をヒアリングして機能を実装することができる（Visual Basic.NET, WordPress, JavaScript）
+
+### SQL
+
+テーブル連結、関数の使用ができる
+
+### 開発環境の使用の経験
+
+
+
+### バージョンコントロールシステム
+
+
+
+### その他ツール
 
 ## learning
 - Vue.js
