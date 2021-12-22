@@ -22,7 +22,9 @@ HTML5, CSS3, jQuery, JavaScript
 
 あと、「レス」というCSS設計（リセットCSSではない方）も案件で経験しましたが、参考サイトが見つからない・・・
 
-ピクセルグリッドの高津戸さんの著書『ざっくりつかむ　CSS設計』（https://book.mynavi.jp/ec/products/detail/id=126973）　でも学習しようと思っています。
+ピクセルグリッドの高津戸さんの著書『ざっくりつかむ　CSS設計』（https://book.mynavi.jp/ec/products/detail/id=126973）　
+
+でも学習しようと思っています。
 
 ### 実務経験のあるテンプレートエンジン
 
