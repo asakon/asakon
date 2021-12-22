@@ -12,7 +12,7 @@
 
 デザイナーが作成したデザインカンプ（Illurstator, Photoshop, Adobe XD, Figma）から、webページを作成できる
 
-HTML5, CSS3, jQuery, JavaScript
+HTML5, CSS3, Sass(SCSS), jQuery, JavaScript, PHP
 
 ### CSS設計について
 
