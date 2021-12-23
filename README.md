@@ -102,9 +102,7 @@ WEB+DB PressやSoftware Designを買うこと
 - JSのプロトタイプとかクロージャとかわかってないから勉強中
 
 
-## Wiki
-
-Wikiに学習の記録を書いていこうと思います。
+## 学習ログ
 
 https://github.com/asakon/memo/wiki
 
